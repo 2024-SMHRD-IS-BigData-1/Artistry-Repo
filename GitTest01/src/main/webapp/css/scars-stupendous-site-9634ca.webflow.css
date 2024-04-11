@@ -3118,7 +3118,7 @@ body {
 	.main-nav-up-holder {
 		z-index: -1;
 		pointer-events: none;
-		color: #000;
+		color:white;
 		height: 100%;
 		font-size: 1rem;
 		line-height: 1.6;
@@ -3160,6 +3160,7 @@ body {
 		position: relative;
 	}
 	.hero-content {
+		background-color: white;
 		z-index: 2;
 		border: 5px none var(--black);
 		border-radius: 10px;
@@ -3248,7 +3249,7 @@ body {
 		padding-top: 0;
 	}
 	.background-area {
-		background-color: #f18383;
+		background-color:whitesmoke;
 		flex-flow: column;
 		justify-content: center;
 		align-items: center;
@@ -3812,7 +3813,7 @@ body {
 		display: flex;
 	}
 	.main-view {
-		color: #000;
+		color: whitesmoke;
 		flex: 1;
 		width: 0;
 		min-width: 1380px;
