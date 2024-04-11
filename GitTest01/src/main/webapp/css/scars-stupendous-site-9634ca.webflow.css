@@ -3756,7 +3756,7 @@ body {
 		display: flex;
 	}
 	.pagechanger {
-		color: var(--white);
+		color: var(--black);
 		text-decoration: none;
 	}
 	.banner-wrap {
