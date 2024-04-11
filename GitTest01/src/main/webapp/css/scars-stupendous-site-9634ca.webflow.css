@@ -4140,6 +4140,9 @@ body {
 	.price-tag {
 		margin-left: 15px;
 	}
+	.price-tag>h3{
+		background-color: black;
+	}
 	.artview-floating-tab {
 		z-index: 10;
 		height: 3150px;
